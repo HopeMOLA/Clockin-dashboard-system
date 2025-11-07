@@ -1,0 +1,47 @@
+[
+  {
+    "id": "EMP001",
+    "name": "John Smith",
+    "email": "john.smith@company.com",
+    "department": "Engineering",
+    "position": "Senior Developer",
+    "pin": "1234",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  },
+  {
+    "id": "EMP002",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@company.com",
+    "department": "Marketing",
+    "position": "Marketing Manager",
+    "pin": "2345",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  },
+  {
+    "id": "EMP003",
+    "name": "Michael Chen",
+    "email": "michael.chen@company.com",
+    "department": "Sales",
+    "position": "Sales Representative",
+    "pin": "3456",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  },
+  {
+    "id": "EMP004",
+    "name": "Emily Davis",
+    "email": "emily.davis@company.com",
+    "department": "HR",
+    "position": "HR Specialist",
+    "pin": "4567",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  },
+  {
+    "id": "EMP005",
+    "name": "David Wilson",
+    "email": "david.wilson@company.com",
+    "department": "Engineering",
+    "position": "DevOps Engineer",
+    "pin": "5678",
+    "avatar": "/placeholder.svg?height=40&width=40"
+  }
+]
