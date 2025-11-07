@@ -17,7 +17,6 @@ export function BurgerMenu() {
     { href: "/clock-out", label: "Clock Out", icon: LogOut },
     { href: "/register-employee", label: "Register Employee", icon: UserPlus },
     { href: "/employees", label: "All Employees", icon: Users },
-    { href: "/reports", label: "Reports", icon: BarChart3 },
     { href: "/settings", label: "Settings", icon: Settings },
   ]
 
